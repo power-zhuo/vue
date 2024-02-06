@@ -1,4 +1,4 @@
-# 1
+# 使用方法
 
 ## Project setup
 ```
