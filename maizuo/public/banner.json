@@ -1,0 +1,20 @@
+{
+    "banner":[
+        {
+            "id":1,
+            "imgUrl":"https://static.maizuo.com/pc/v5/usr/movie/c81fcae55eeb42bc9b505f97b2098da5.jpg",
+            "title":"星愿"
+        },
+        {
+            "id":2,
+            "imgUrl":"https://pic.maizuo.com/usr/movie/303df75c0cd5d33c67223d9fa43d07d2.jpg",
+            "title":"蜡笔小新"
+        },
+        {
+            "id":3,
+            "imgUrl":"https://static.maizuo.com/pc/v5/usr/movie/17e8ab5e2ed7e9e444c50dd3b25915a9.jpg",
+            "title":"刀尖"
+        }
+        
+    ]
+}

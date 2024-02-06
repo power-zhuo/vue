@@ -1,0 +1,500 @@
+{
+    "status": 0,
+    "data": {
+        "films": [
+            {
+                "filmId": 6618,
+                "name": "涉过愤怒的海",
+                "poster": "https://pic.maizuo.com/usr/movie/2f2566dffd5955d0b960a9ac8946e59c.jpg",
+                "actors": [
+                    {
+                        "name": "曹保平",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b32e9eb0948287a645f4379f916b94ee.jpg"
+                    },
+                    {
+                        "name": "黄渤",
+                        "role": " 老金",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f2a4a18bf8cf420b09c0a19d20a4a0fc.jpg"
+                    },
+                    {
+                        "name": "周迅",
+                        "role": " 景岚",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/323057d90426543e49f5674d8cd42dc7.jpg"
+                    },
+                    {
+                        "name": "祖峰",
+                        "role": " 李烈",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/61d27e4e420ad746061a3129dd601d22.jpg"
+                    },
+                    {
+                        "name": "张宥浩",
+                        "role": " 李苗苗",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c46428aea1bcfa2e53c1af240f791755.jpg"
+                    }
+                ],
+                "director": "曹保平",
+                "category": "剧情|犯罪|悬疑",
+                "synopsis": "老金（黄渤 饰）为供女儿金丽娜（周依然 饰）留学终日捕鱼，却换来女儿身中17刀离奇身亡的死讯，最大嫌疑人则指向她的男友李苗苗（张宥浩 饰）。愤怒的老金踏上跨海寻仇之路，李苗苗却在母亲景岚（周迅 饰）的庇护下不断潜逃……这场人性迷局中，究竟谁能抵达爱与宽恕的彼岸？",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1700870400,
+                "timeType": 3,
+                "runtime": 144,
+                "grade": "7.7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 6631,
+                "name": "蜡笔小新：新次元！超能力大决战",
+                "poster": "https://pic.maizuo.com/usr/movie/303df75c0cd5d33c67223d9fa43d07d2.jpg",
+                "actors": [
+                    {
+                        "name": "大根仁",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/26382ba210e185e4849141eff60edf1a.jpg"
+                    },
+                    {
+                        "name": "真柴摩利",
+                        "role": "风间",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0048e4ffd3f2feeb9f1d993f65b3ce7a.jpg"
+                    },
+                    {
+                        "name": "林玉绪",
+                        "role": "妮妮",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7efe4e499a04a824b1b035bc405c7f79.jpg"
+                    },
+                    {
+                        "name": "一龙斋贞友",
+                        "role": "正男",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ef498266ad80a0fb48009c8ff0aed877.jpg"
+                    },
+                    {
+                        "name": "森田 顺平",
+                        "role": "园长",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c76a4a3d4b8ee238239d9581a2e2bd51.jpg"
+                    }
+                ],
+                "director": "大根仁",
+                "category": "动画|喜剧",
+                "synopsis": "前所未见的小新，欢乐尽在新次元！拥有超能力的小新这个11月与你银幕相见！在20和23并列的年份，天上会降下两道光芒。一道是黑暗之光，另一道是小小的白光……黑暗之大的力量，给世界带来巨大的混乱。2023年，一个拥有黑暗力量的男人开始暴走，破坏，叫嚣。在世界即将被恐怖支配时，被白光的力量唤醒的少年阻止了这一切。没错，他的名字就是野原新之助！一场超能力大决战即将拉开帷幕！",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "日本",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1700870400,
+                "timeType": 3,
+                "runtime": 94,
+                "grade": "7.6",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 6627,
+                "name": "刀尖",
+                "poster": "https://pic.maizuo.com/usr/movie/17e8ab5e2ed7e9e444c50dd3b25915a9.jpg",
+                "actors": [
+                    {
+                        "name": "高群书",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6ba981ded2292d09fe9346803597050a.jpg"
+                    },
+                    {
+                        "name": "张译",
+                        "role": "金深水",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ff9aafa8c6033a1277d5ecd65822f8ae.jpg"
+                    },
+                    {
+                        "name": "黄志忠",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/96d3640b4fe66d73081e88de8cb0c083.jpg"
+                    },
+                    {
+                        "name": "郎月婷",
+                        "role": "林婴婴",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9d87b9280aa1d268c47f6639cb6b835f.jpg"
+                    },
+                    {
+                        "name": "成泰燊",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4c87d92b3571c7f7fe82fa260c875c5c.jpg"
+                    }
+                ],
+                "director": "高群书",
+                "category": "谍战",
+                "synopsis": "1940年，多方势力盘踞南京，特工金深水终日周旋于日本军方、汪伪政府和军统之间，如同行走于刀尖一般，有着多重身份的他，在满目疮痍的南京城里小心翼翼地活着，隐藏着真实的自己，也寻找着自己乃至整个民族的生路。直到他遇到了和他一样心怀国仇家恨、却似乎比他更游刃有余的林婴婴，在和她并肩作战与各方势力展开明争暗斗的过程中，于乱世中求生的金深水第一次开始真正地觉醒……",
+                "filmType": {
+                    "name": "4D",
+                    "value": 13
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1700784000,
+                "timeType": 3,
+                "runtime": 121,
+                "grade": "7.5",
+                "item": {
+                    "name": "4D",
+                    "type": 13
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 6640,
+                "name": "星愿",
+                "poster": "https://pic.maizuo.com/usr/movie/c81fcae55eeb42bc9b505f97b2098da5.jpg",
+                "actors": [
+                    {
+                        "name": "弗恩·维拉桑托恩",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/975bbf1ede56bb244545178c02a61e04.jpg"
+                    },
+                    {
+                        "name": "克里斯·巴克",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/600c2fbff28da332e62328839120b71e.jpg"
+                    },
+                    {
+                        "name": "阿丽亚娜·德博斯",
+                        "role": "阿莎 Asha",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7a3c2056217e1fd8e5a02642cdb5911d.jpg"
+                    },
+                    {
+                        "name": "刘亦菲",
+                        "role": "阿莎 Asha（中文配音）",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c1a02b0d9a65a4166d3cebb9994eabd2.jpg"
+                    },
+                    {
+                        "name": "艾伦·图代克",
+                        "role": "瓦伦蒂诺 Valentino",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f5cea15dedfdf27882b1944fe51a0994.jpg"
+                    }
+                ],
+                "director": "弗恩·维拉桑托恩|克里斯·巴克",
+                "category": "动画",
+                "synopsis": "华特迪士尼动画工作室在成立100年之际，特别推出全新原创动画电影《星愿》，带领观众走进魔法王国罗萨斯。在这里，聪慧的理想主义者亚莎许下了一个特别的心愿，并得到了宇宙力量的回应——许愿星（一团小巧却拥有无限能量的光球）来到了她的身边。亚莎和许愿星要联手对抗一位强大的敌人：罗萨斯的统治者麦尼菲科国王。他们不仅要解救族人，还要证明当一位勇敢人类的愿望与许愿星的魔法结合时，将会有奇妙的事情发生。《星愿》公映期间还将为中国观众惊喜加映特别纪念短片——“迪士尼动画·筑梦100年”，以此庆祝迪士尼动画百年诞辰。",
+                "filmType": {
+                    "name": "3D",
+                    "value": 2
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1700784000,
+                "timeType": 3,
+                "runtime": 104,
+                "grade": "7.2",
+                "item": {
+                    "name": "3D",
+                    "type": 2
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 6620,
+                "name": "我本是高山",
+                "poster": "https://pic.maizuo.com/usr/movie/61cacfc2b080570a520500a1e546541b.jpg",
+                "actors": [
+                    {
+                        "name": "郑大圣",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/63f08021924377c7d40939c0057b3435.jpg"
+                    },
+                    {
+                        "name": "杨瑾",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3c206450adf835157e54e11c21add420.jpg"
+                    },
+                    {
+                        "name": "海清",
+                        "role": "张校长",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f55890241d58c20bf5852a0b506d1ff6.jpg"
+                    },
+                    {
+                        "name": "陈永胜",
+                        "role": "卢南山",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/eec17eff886074b1b48e3646058178a4.jpg"
+                    },
+                    {
+                        "name": "柴烨",
+                        "role": "徐影影",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e5065008242e7c6e9a910ef1752f5789.jpg"
+                    }
+                ],
+                "director": "郑大圣|杨瑾",
+                "category": "剧情",
+                "synopsis": "根据张桂梅真实事迹改编，海清领衔演绎现实催泪佳作！这是一个坚毅的女人和一群刚刚毕业还很稚嫩的老师，带着一百多个女孩成功逆天改命的故事，是关于爱、青春、热血和命运……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1700784000,
+                "timeType": 3,
+                "runtime": 131,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 6590,
+                "name": "拯救嫌疑人",
+                "poster": "https://pic.maizuo.com/usr/movie/6f0850b4fc5e0ddfaac2e8146c23e21c.jpg",
+                "director": "张末",
+                "category": "悬疑|犯罪|剧情",
+                "synopsis": "“谁动我女儿，我要谁命”愤怒母亲绝望反击！独居女大学生被刺27刀惨死，嫌疑人一审被判死刑！受害者母亲林淑娥（惠英红 饰）本以为正义已到，但从无败诉的女律师陈智琪（张小斐 饰）坚持为奸杀犯做无罪辩护，让受害者母亲陷入绝望。陈智琪为奸杀犯辩护的背后也有隐秘苦衷——一通神秘电话威胁她在五天之内为嫌疑人做无罪辨护，否则就杀死她女儿！陈智琪无助绝望之下联手警察金志雄(李鸿其 饰)展开调查，随着调查的展开，陷入绝境的两个母亲形成对峙，更大的阴谋开始展现，复仇与反杀似乎成了唯一的选择……",
+                "filmType": {
+                    "name": "4D",
+                    "value": 13
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1698969600,
+                "timeType": 3,
+                "runtime": 119,
+                "grade": "7.7",
+                "item": {
+                    "name": "4D",
+                    "type": 13
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 6635,
+                "name": "热搜",
+                "poster": "https://pic.maizuo.com/usr/movie/f435948b55c66662a6ad2618b356f78f.jpg",
+                "actors": [
+                    {
+                        "name": "忻钰坤",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e3bad7ac8b11cc48b266a4ade814a80b.jpg"
+                    },
+                    {
+                        "name": "周冬雨",
+                        "role": "陈妙",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6fd569e16306588d15e0f3898ff3be96.jpg"
+                    },
+                    {
+                        "name": "宋洋",
+                        "role": "何言",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/51092fc69ad924e77d568f552c54e0a0.jpg"
+                    },
+                    {
+                        "name": "袁弘",
+                        "role": "岳鹏",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a8482e64931609b02b216cfa6d70b8a6.jpg"
+                    },
+                    {
+                        "name": "王皓",
+                        "role": "龚文",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a203b6591a67e1ce2f03ba5a4b2410da.jpg"
+                    }
+                ],
+                "director": "忻钰坤",
+                "category": "剧情|犯罪",
+                "synopsis": "热搜背后，真相究竟是什么？自媒体主编陈妙（周冬雨 饰）参透流量密码，打造爆款文章冲上热搜，却间接助推了当事人“霸凌者”女学生的跳楼。就在此时，陈妙意外发现女学生曾发来的求助信息，并牵扯出一桩性侵案。陈妙的合伙人何言（宋洋饰），投资方富商岳鹏（袁弘饰）陆续卷入其中。舆论多次转向，事件背后又隐藏着怎样的利益链条，一场为弱者发声的舆论战打响…",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1701388800,
+                "timeType": 3,
+                "runtime": 121,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 6622,
+                "name": "饥饿游戏：鸣鸟与蛇之歌",
+                "poster": "https://pic.maizuo.com/usr/movie/91ca41522a4b9338e088ddda224bdaaf.jpg",
+                "actors": [
+                    {
+                        "name": "弗朗西斯·劳伦斯",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/60554a834bbfc6f0f402b4f9526b5611.jpg"
+                    },
+                    {
+                        "name": "汤姆·布莱斯",
+                        "role": " Coriolanus Snow",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d8d3f002ceb14736aad76c7a5af1f687.jpg"
+                    },
+                    {
+                        "name": "瑞秋·泽格勒",
+                        "role": " Lucy Gray Baird",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5a121f55633ea2bc217b24a35410d6a4.jpg"
+                    },
+                    {
+                        "name": "彼特·丁拉基",
+                        "role": " Casca Highbottom",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a26b5fc648da03a6ed206ff7afef9017.jpg"
+                    },
+                    {
+                        "name": "詹森·舒瓦兹曼",
+                        "role": " Lucretius 'Lucky' Flickerman",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f81be0591222203fb8ea57ee4122c4d0.jpg"
+                    }
+                ],
+                "director": "弗朗西斯·劳伦斯",
+                "category": "剧情|动作|科幻|惊悚",
+                "synopsis": "改编自全球销量破亿的经典爆款故事IP，全球票房直逼30亿美元，被赞为影史最卖座的系列电影之一重磅回归！残酷炼狱，绝境求生！18岁的科里奥兰纳斯·斯诺（汤姆·布莱斯 饰）被选为第十届饥饿游戏的导师，与来自第十二区的贫困女孩露西·格雷·贝尔德（瑞秋·齐格勒 饰）成为了“生死相依”的命运共同体。竞技场上，这是一场关乎自由、食物，甚至是尊重与权利的生死角逐；竞技场外，不忍与善意使斯诺决定不顾一切帮助露西在这场游戏中赢得胜利......当活下去的欲望与所遵守的规则背道而驰，命运的齿轮紧抓入自己手中时，他又该如何抉择？",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1700179200,
+                "timeType": 3,
+                "runtime": 158,
+                "grade": "7.3",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 6629,
+                "name": "靠近我一点",
+                "poster": "https://pic.maizuo.com/usr/movie/03d7ca1e29be161579379d2cf4512599.jpg",
+                "actors": [
+                    {
+                        "name": "夏永康",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/33aeea75747520d321e2141ff1aeb368.jpg"
+                    },
+                    {
+                        "name": "张震",
+                        "role": " 张扬",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7d8db7a26f43aa1ae7d9076b98869055.jpg"
+                    },
+                    {
+                        "name": "春夏",
+                        "role": " 林楚楚",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1d00ad53948521527861ce59eeb298be.jpg"
+                    },
+                    {
+                        "name": "李现",
+                        "role": " 于可风",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6b9931341a17d0c99e57864e4bb8123c.jpg"
+                    },
+                    {
+                        "name": "袁姗姗",
+                        "role": " Amanda",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a7498fdc061dcc50d83faca61923d8ce.jpg"
+                    }
+                ],
+                "director": "夏永康",
+                "category": "爱情|奇幻|喜剧",
+                "synopsis": "等一个人很久会有结果吗？等了初恋男友10年的林楚楚（春夏饰演），最终等来的是男友和别人的婚礼。正当她对感情失去信心的时候，婚礼策划师张扬（张震饰演）和高富帅男神于可风（李现饰演）同时出现在楚楚的生活中，陪她走出了这段黑暗时光。只活一次的人生，一定要和真正爱的人有一个美好的结局。面对同样真挚的两个人，楚楚的感情也来到了必须抉择的十字路口，这一次，楚楚想要跟命运赌一把，不留遗憾勇敢爱。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆,中国香港",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1700784000,
+                "timeType": 3,
+                "runtime": 94,
+                "grade": "7.3",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 6623,
+                "name": "红猪",
+                "poster": "https://pic.maizuo.com/usr/movie/d27adedc43d943e0137167f2ca413bd0.jpg",
+                "actors": [
+                    {
+                        "name": "宫崎骏",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/589bd0777f174e554b866cbc61145422.jpg"
+                    },
+                    {
+                        "name": "矢田稔",
+                        "role": "老人",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9759b9d52ed11152f56c6150f80590e6.jpg"
+                    },
+                    {
+                        "name": "杰克·安杰尔",
+                        "role": "Additional Voices",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d0fbc5b5d5403ea846f021283a201e60.jpg"
+                    },
+                    {
+                        "name": "加利·艾尔维斯",
+                        "role": "Curtis (voice: English version)",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a09b4ead6891b045880f450eee7c466c.jpg"
+                    },
+                    {
+                        "name": "布拉德·加瑞特",
+                        "role": "Mamma Aiuto Boss",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/62e0be45334e128b095e10cac01a2af8.jpg"
+                    }
+                ],
+                "director": "宫崎骏",
+                "category": "动画|冒险",
+                "synopsis": "宫崎骏经典反战力作，被评为“最像宫崎骏自传的动画”，11月17日登陆全国艺联专线。为了反对战争，波鲁克甘愿成为红猪。亚得里亚海的空中冒险，阳光灿烂的碧海蓝天，勾勒出红猪翱翔于空的不凡人生。无论生活多么糟心，依然不被现实所打倒。11月17日，献给所有心怀浪漫的你。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "日本",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1700179200,
+                "timeType": 3,
+                "runtime": 94,
+                "grade": "7.3",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            }
+        ],
+        "total": 45
+    },
+    "msg": "ok"
+}
