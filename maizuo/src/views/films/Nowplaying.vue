@@ -2,18 +2,25 @@
 <template>
     <div>
         <!-- Nowplaying -->
-        <ul>
-            <li v-for="data in datalist" :key="data.filmId" @click="handleChangePage(data.filmId)">
+        <van-list
+        v-model="loading"
+        :finished="finished"
+        finished-text="没有更多了"
+        @load="onLoad"
+        :immediate-check="false"
+        >
+            <van-cell v-for="data in datalist" :key="data.filmId" @click="handleChangePage(data.filmId)">
                   <img :src="data.poster">
                 <div class="centermenu">
                   <div class="title">{{ data.name }}</div>
                   <div class="pingfen" :class="data.grade?'':'hidden'"><p>观众评分：<a>{{ data.grade }}</a></p></div> <!--:class="data.grade?'':'hidden'" @如果没有观众评分则不显示观众评分栏-->
-                  <div class="zhuyan">主演：{{ data.actors | actorsFilter }}</div>
+                  <div class="category">{{ data.category}} </div><!--电影类型-->
+                  <div class="starring">主演:(导演：{{ data.director}})  {{ data.actors | actorsFilter }}</div>
                   <div></div>
                   <div class="time">{{ data.nation}}&nbsp;|&nbsp;{{ data.runtime }}分钟</div>
                 </div>
-                </li>
-        </ul>
+                </van-cell>
+        </van-list>
     </div>
 </template>
 <script>
@@ -29,7 +36,10 @@ Vue.filter('actorsFilter', (data) => {
 export default {
   data () {
     return {
-      datalist: []
+      datalist: [],
+      loading: false,
+      finished: false,
+      pagenum: 1
     }
   },
   mounted () {
@@ -45,6 +55,27 @@ export default {
     })
   },
   methods: {
+    onLoad () {
+      console.log('加载')
+      this.pagenum++
+      http({
+        url: `/gateway?cityId=440100&pageNum=${this.pagenum}&pageSize=10&type=1&k=7284377`,
+        // url: '/wuhu.json',
+        headers: {
+          'X-Host': 'mall.film-ticket.film.list'
+        }
+      }).then(res => {
+        // console.log(res.data.data.films)
+        // this.datalist = res.data.data.films
+        this.datalist = [...this.datalist, ...res.data.data.films]
+        // 将loading 状态设置为false，加载完成
+        this.loading = false
+        // 判断是否还有更多数据
+        if (res.data.data.films.length === 0) {
+          this.finished = true
+        }
+      })
+    },
     handleChangePage (id) {
       console.log(id)
       // 编程式导航栏
@@ -65,18 +96,18 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
-ul{
-  li{
+.van-list{
+  .van-cell{
     overflow: hidden;
-    padding: 15px 15px 15px 0;
-    height: 5.8125rem;
+    /*padding: 15px 15px 15px 0;
+    height: 5.8125rem;*/
     .centermenu{
       height: 93px;
     width: 220px;
     float: left;
     margin-left: 10px;
     padding-top: 5px;
-    .zhuyan{
+    .starring{//超出显示省略号*/
       overflow: hidden;
     -o-text-overflow: ellipsis;
     text-overflow: ellipsis;
@@ -106,7 +137,15 @@ ul{
     margin-top: 4px;
     color: #797d82;
     }
-    .zhuyan{
+    .starring{
+      font-size: 13px;
+      color: #797d82;
+    }
+    .category{
+      font-size: 13px;
+      color: #797d82;
+    }
+    .director{
       font-size: 13px;
       color: #797d82;
     }
