@@ -1,4 +1,4 @@
-# 使用方法
+# maizuo
 
 ## Project setup
 ```
