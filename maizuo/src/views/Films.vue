@@ -70,6 +70,7 @@ export default {
   position: sticky;
   top: 0px;
   background-color: white;
+  z-index: 666;
 }
 
   img {

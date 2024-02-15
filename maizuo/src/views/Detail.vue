@@ -36,7 +36,9 @@
         <detail-swiper :perview="2.5" name="photos">
           <detail-swiper-item  v-for="(data,index) in filmInfo.photos" :key="index">
             <div :style="{
-              backgroundImage: 'url(' + data + ')'}" class="avatar"></div> <!-- 动态绑定背景图 -->
+              backgroundImage: 'url(' + data + ')'}" class="avatar"
+              @click="handlePreview(index)"
+              ></div> <!-- 动态绑定背景图 -->
           </detail-swiper-item>
         </detail-swiper>
       </div>
@@ -49,6 +51,7 @@ import Vue from 'vue'
 import detailSwiper from '@/mycomponents/detail/DetailSwiper'
 import detailHeader from '@/mycomponents/detail/DetailHeader'
 import detailSwiperItem from '@/mycomponents/detail/DetailSwiperItem'
+import { ImagePreview } from 'vant'
 moment.locale('zh-cn') // 设置中文
 console.log(moment().format('YYYY-MM-DD'))
 Vue.filter('dateFilter', () => {
@@ -85,6 +88,20 @@ export default {
     detailSwiper,
     detailSwiperItem,
     detailHeader
+  },
+  methods: {
+    // handlePreview (data) {
+    //   ImagePreview([data])
+    // }
+    handlePreview (index) {
+      ImagePreview({
+        images: this.filmInfo.photos,
+        startPosition: index,
+        closeable: true,
+        closeIconPosition: 'top-left'
+
+      })
+    }
   },
   created () {
     console.log('id:', this.$route.params.id)
